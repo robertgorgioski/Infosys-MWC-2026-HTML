@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://copy-of-sap-application-managed-services-0h8a21.teleporthq.site/sitemap.xml

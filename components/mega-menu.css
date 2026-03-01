@@ -1,0 +1,164 @@
+.mega-menu-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.mega-menu-navlink1 {
+  display: contents;
+}
+ 
+.mega-menu-thq-page-one-elm1 {
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: var(--dl-layout-space-halfunit);
+  text-decoration: none;
+}
+ 
+.mega-menu-link {
+  display: contents;
+}
+ 
+.mega-menu-thq-page-one-elm2 {
+  color: rgb(255, 255, 255);
+  margin-bottom: var(--dl-layout-space-halfunit);
+  text-decoration: none;
+}
+ 
+.mega-menu-navlink2 {
+  display: contents;
+}
+ 
+.mega-menu-thq-page-one-elm3 {
+  color: rgb(255, 255, 255);
+  margin-bottom: var(--dl-layout-space-halfunit);
+  text-decoration: none;
+}
+ 
+.mega-menu-navlink3 {
+  display: contents;
+}
+ 
+.mega-menu-thq-page-one-elm4 {
+  color: rgb(255, 255, 255);
+  margin-bottom: var(--dl-layout-space-halfunit);
+  text-decoration: none;
+}
+ 
+.mega-menu-navlink4 {
+  display: contents;
+}
+ 
+.mega-menu-thq-page-one-elm5 {
+  color: rgb(255, 255, 255);
+  margin-bottom: var(--dl-layout-space-halfunit);
+  text-decoration: none;
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 767px) {
+  .mega-menu-thq-page-one-elm2 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  .mega-menu-thq-page-one-elm3 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  .mega-menu-thq-page-one-elm4 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  .mega-menu-thq-page-one-elm5 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .mega-menu-thq-page-one-elm1 {
+    color: rgb(255, 255, 255);
+    margin-bottom: var(--dl-layout-space-halfunit);
+    text-decoration: none;
+  }
+  .mega-menu-thq-page-one-elm2 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  .mega-menu-thq-page-one-elm3 {
+    color: rgb(255, 255, 255);
+    margin-bottom: var(--dl-layout-space-halfunit);
+    text-decoration: none;
+  }
+  .mega-menu-thq-page-one-elm4 {
+    color: rgb(255, 255, 255);
+    margin-bottom: var(--dl-layout-space-halfunit);
+    text-decoration: none;
+  }
+  .mega-menu-thq-page-one-elm5 {
+    color: rgb(255, 255, 255);
+    margin-bottom: var(--dl-layout-space-halfunit);
+    text-decoration: none;
+  }
+}
